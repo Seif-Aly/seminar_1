@@ -13,6 +13,7 @@
 		3052B2922AAB8DD800DACD25 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3052B2902AAB8DD800DACD25 /* Main.storyboard */; };
 		3052B2942AAB8DDB00DACD25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3052B2932AAB8DDB00DACD25 /* Assets.xcassets */; };
 		3052B2972AAB8DDB00DACD25 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3052B2952AAB8DDB00DACD25 /* LaunchScreen.storyboard */; };
+		3052B29F2AAB8F2200DACD25 /* ios.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3052B29E2AAB8F2200DACD25 /* ios.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3052B2932AAB8DDB00DACD25 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3052B2962AAB8DDB00DACD25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3052B2982AAB8DDB00DACD25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3052B29E2AAB8F2200DACD25 /* ios.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3052B28A2AAB8DD800DACD25 /* AppDelegate.swift */,
 				3052B28C2AAB8DD800DACD25 /* SceneDelegate.swift */,
 				3052B28E2AAB8DD800DACD25 /* ViewController.swift */,
+				3052B29E2AAB8F2200DACD25 /* ios.swift */,
 				3052B2902AAB8DD800DACD25 /* Main.storyboard */,
 				3052B2932AAB8DDB00DACD25 /* Assets.xcassets */,
 				3052B2952AAB8DDB00DACD25 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				3052B28F2AAB8DD800DACD25 /* ViewController.swift in Sources */,
 				3052B28B2AAB8DD800DACD25 /* AppDelegate.swift in Sources */,
 				3052B28D2AAB8DD800DACD25 /* SceneDelegate.swift in Sources */,
+				3052B29F2AAB8F2200DACD25 /* ios.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
